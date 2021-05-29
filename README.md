@@ -3,4 +3,5 @@ Code取自finlab: https://www.finlab.tw/%E7%94%A8%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%
 ![image](https://github.com/pupumeme/aiot-HW-6-tf.keras/blob/main/code.png)
 
 ### 結果
+試了很多參數調整，發現把batch siz調小能讓效果變好一點  
 ![image](https://github.com/pupumeme/aiot-HW-6-tf.keras/blob/main/result.png)
